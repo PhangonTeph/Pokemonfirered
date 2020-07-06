@@ -36,7 +36,7 @@
 33,CAMPER,Campista,16,,,male trainer encounter.mid,Male,,
 34,PICNICKER,Garota Campista,16,,,female trainer encounter.mid,Female,,
 35,COOLTRAINER_M,Treinador Legal,60,,,male trainer encounter.mid,Male,,
-36,COOLTRAINER_F,Treinador Legal,60,,,female trainer encounter.mid,Female,,
+36,COOLTRAINER_F,Treinadora Legal,60,,,female trainer encounter.mid,Female,,
 37,YOUNGSTER,Jovem,16,,,male trainer encounter.mid,Male,,
 38,LASS,Moça,16,,,female trainer encounter.mid,Female,,
 39,POKEMONRANGER_M,Caçador Pokémon,60,,,male trainer encounter.mid,Male,,

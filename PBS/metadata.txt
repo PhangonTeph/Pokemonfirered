@@ -424,6 +424,19 @@ MapPosition=0,18,12
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[070]
+# Caverna dos Diglett
+Bicycle=true
+MapPosition=0,17,12
+ShowArea=true
+#-------------------------------
+[071]
+# Caverna dos Diglett
+Bicycle=true
+MapPosition=0,20,7
+Outdoor=false
+ShowArea=true
+#-------------------------------
 [073]
 # Túnel de Pedra
 Bicycle=true
@@ -439,9 +452,193 @@ MapPosition=0,20,7
 DarkMap=true
 ShowArea=true
 #-------------------------------
+[075]
+# Usina de Energia
+Bicycle=false
+MapPosition=0,20,7
+ShowArea=true
+#-------------------------------
 [076]
 # Cidade de Lavander
 Bicycle=true
 MapPosition=0,20,9
 Outdoor=true
+HealingSpot=85,7,5
 ShowArea=true
+#-------------------------------
+[077]
+# Torre Pokémon - 1F
+Bicycle=false
+MapPosition=0,20,9
+ShowArea=true
+#-------------------------------
+[078]
+# Torre Pokémon - 2F
+Bicycle=false
+MapPosition=0,20,9
+ShowArea=true
+#-------------------------------
+[079]
+# Torre Pokémon - 3F
+Bicycle=false
+MapPosition=0,20,9
+ShowArea=true
+#-------------------------------
+[080]
+# Torre Pokémon - 5F
+Bicycle=false
+MapPosition=0,20,9
+ShowArea=true
+#-------------------------------
+[081]
+# Torre Pokémon - 4F
+Bicycle=false
+MapPosition=0,20,9
+ShowArea=true
+#-------------------------------
+[082]
+# Torre Pokémon - 6F
+Bicycle=false
+MapPosition=0,20,9
+ShowArea=true
+#-------------------------------
+[083]
+# Torre Pokémon - 7F
+Bicycle=false
+MapPosition=0,20,9
+ShowArea=true
+#-------------------------------
+[084]
+# Centro Pokémon Rota 10
+Bicycle=false
+MapPosition=0,20,6
+#-------------------------------
+[085]
+# Centro Pokémon de Lavander
+Bicycle=false
+MapPosition=0,20,9
+#-------------------------------
+[086]
+# Mercado de Lavander
+Bicycle=false
+MapPosition=0,20,9
+#-------------------------------
+[087]
+# Casa Fuji
+Bicycle=false
+MapPosition=0,20,9
+#-------------------------------
+[088]
+# Casa esquerda
+Bicycle=false
+MapPosition=0,20,9
+#-------------------------------
+[089]
+# Casa direita
+Bicycle=false
+MapPosition=0,20,9
+#-------------------------------
+[090]
+# Rota 8
+Bicycle=true
+MapPosition=0,19,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[092]
+# Subterraneo - Entrada Rota 8
+MapPosition=0,18,9
+#-------------------------------
+[093]
+# Subterraneo
+MapPosition=0,18,9
+ShowArea=true
+#-------------------------------
+[094]
+# Rota 7
+Bicycle=true
+MapPosition=0,14,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[095]
+# Subterraneo - Entrada Rota 7
+MapPosition=0,14,9
+#-------------------------------
+[096]
+# Cidade de Celadon
+Bicycle=true
+MapPosition=0,12,9
+Outdoor=true
+HealingSpot=97,7,6
+ShowArea=true
+#-------------------------------
+[097]
+# Centro Pokémon de Celadon
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[098]
+# Cassino
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[099]
+# Cedolan Dept. 1F
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[100]
+# Cedolan Dept. 2F
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[101]
+# Cedolan Dept. 3F
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[102]
+# Cedolan Dept. 4F
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[103]
+# Cedolan Dept. 5F
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[104]
+# Cedolan Dept. Rooftop
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[105]
+# Cedolan Dept. Elevator
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[106]
+# Cedolan City Condo
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[107]
+# Casa 1
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[108]
+# Casa 2
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[109]
+# Casa 3
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[110]
+# Ginásio de Celadon
+Bicycle=false
+MapPosition=0,12,9

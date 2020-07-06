@@ -24,21 +24,27 @@
 35,North,60,44,South,0
 # Rota 24 (43) - Rota 25 (44)
 43,East,0,44,West,0
+# Rota 8 (90) - Rota 10 (55)
+90,North,79,55,South,0
 # Cidade de Cerulean (35) - Rota 10 (55)
 35,East,38,55,West,0
-# Cidade de Lavander (76) - Rota 10 (55)
-76,North,0,55,South,21
 # Rota 9 (54) - Rota 10 (55)
 54,South,0,55,North,0
+# Cidade de Lavander (76) - Rota 10 (55)
+76,North,0,55,South,21
 # Rota 5 (46) - Rota 4 (34)
 46,West,0,34,East,50
 # Cidade de Cerulean (35) - Rota 4 (34)
 35,West,5,34,East,0
 # Rota 24 (43) - Rota 4 (34)
 43,West,50,34,East,0
+# Cidade de Lavander (76) - Rota 8 (90)
+76,West,0,90,East,0
 # Cidade de Cerulean (35) - Rota 5 (46)
 35,South,0,46,North,0
-# Rota 24 (43) - Cidade de Cerulean (35)
-43,South,0,35,North,0
 # Rota 9 (54) - Cidade de Cerulean (35)
 54,West,0,35,East,3
+# Rota 24 (43) - Cidade de Cerulean (35)
+43,South,0,35,North,0
+# Cidade de Celadon (96) - Rota 7 (94)
+96,East,1,94,West,0
