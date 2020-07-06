@@ -1,0 +1,447 @@
+﻿#-------------------------------
+[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+TrainerVictoryME=Battle victory trainer.ogg
+WildVictoryME=Battle victory wild.ogg
+TrainerBattleBGM=Battle trainer.mid
+SurfBGM=Surfing.mid
+BicycleBGM=Bicycle.mid
+Home=3,7,5,8
+WildBattleBGM=Battle wild.mid
+#-------------------------------
+[001]
+# Intro
+#-------------------------------
+[002]
+# Cidade de Pallet
+Bicycle=true
+MapPosition=0,5,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[003]
+# Casa de \PN
+BattleBack=IndoorB
+Bicycle=false
+MapPosition=0,5,14
+HealingSpot=2,8,8
+#-------------------------------
+[004]
+# Casa da Daisy
+Bicycle=false
+MapPosition=0,5,14
+ShowArea=false
+#-------------------------------
+[005]
+# Laboratório Pokémon
+Bicycle=false
+MapPosition=0,5,14
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[006]
+# Rota 1
+Bicycle=true
+MapPosition=0,5,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[007]
+# Cidade de Viridiana
+MapSize=2,11
+Bicycle=true
+MapPosition=0,5,11
+Outdoor=true
+HealingSpot=10,8,6
+ShowArea=true
+#-------------------------------
+[008]
+# Casa 1
+Bicycle=false
+MapPosition=0,5,11
+#-------------------------------
+[009]
+# Escola
+Bicycle=false
+MapPosition=0,5,11
+HealingSpot=8,17,11
+#-------------------------------
+[010]
+# Centro Pokémon de Viridiana
+BattleBack=IndoorB
+Bicycle=false
+MapPosition=0,5,11
+#-------------------------------
+[011]
+# Mercado de Viridiana
+Bicycle=false
+MapPosition=0,5,11
+#-------------------------------
+[012]
+# Rota 22
+Bicycle=true
+MapPosition=0,3,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[013]
+# Rota 2
+Bicycle=true
+MapPosition=0,5,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[014]
+# Rota 2 to viridiana
+MapPosition=0,5,9
+#-------------------------------
+[015]
+# Rota 2 to rota 2
+MapPosition=0,5,8
+#-------------------------------
+[016]
+# Floresta de Viridiana
+Bicycle=true
+MapPosition=0,5,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[017]
+# Floresta to rota 2 end
+Bicycle=true
+MapPosition=0,5,9
+#-------------------------------
+[018]
+# Rota 2
+Bicycle=true
+MapPosition=0,5,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[019]
+# Cidade de Pewter
+Bicycle=true
+MapPosition=0,5,7
+Outdoor=true
+HealingSpot=20,7,5
+ShowArea=true
+#-------------------------------
+[020]
+# Centro Pokémon de Pewter
+Bicycle=false
+MapPosition=0,5,7
+#-------------------------------
+[021]
+# Mercado de Pewter
+MapSize=1,11
+Bicycle=false
+MapPosition=0,5,7
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[022]
+# Ginásio de Pewter
+Bicycle=false
+MapPosition=0,5,7
+ShowArea=true
+#-------------------------------
+[023]
+# Casa 1
+Bicycle=false
+MapPosition=0,5,7
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[024]
+# Casa 2
+Bicycle=false
+MapPosition=0,5,7
+HealingSpot=23,11,15
+#-------------------------------
+[025]
+# Museu
+Bicycle=false
+MapPosition=0,15,8
+ShowArea=false
+#-------------------------------
+[026]
+# Museu 2º andar
+Bicycle=false
+MapPosition=0,5,7
+#-------------------------------
+[027]
+# Rota 3
+Bicycle=true
+MapPosition=0,8,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[028]
+# Temporario
+BattleBack=Forest
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[029]
+# Centro Pokémon da Rota 3
+Bicycle=false
+MapPosition=0,9,6
+#-------------------------------
+[030]
+# Mt. Lua
+Bicycle=true
+MapPosition=0,10,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[031]
+# Mt. Lua
+MapSize=2,1101
+Bicycle=true
+MapPosition=0,10,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[032]
+# Mt. Lua
+Bicycle=true
+MapPosition=0,10,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[033]
+# Mt. Lua
+Bicycle=true
+MapPosition=0,10,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[034]
+# Rota 4
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[035]
+# Cidade de Cerulean
+Bicycle=true
+MapPosition=0,16,6
+Outdoor=true
+HealingSpot=36,8,5
+ShowArea=true
+#-------------------------------
+[036]
+# Centro Pokémon de Cerulean
+Bicycle=false
+MapPosition=0,16,6
+HealingSpot=35,17,7
+#-------------------------------
+[037]
+# Mercado de Cerulean
+BattleBack=EliteA
+Bicycle=false
+MapPosition=0,16,6
+ShowArea=false
+#-------------------------------
+[038]
+# Ginásio de Cerulean
+Bicycle=false
+MapPosition=0,16,6
+ShowArea=true
+#-------------------------------
+[039]
+# Loja de Bicicleta
+MapSize=2,11
+Bicycle=false
+MapPosition=0,16,6
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[040]
+# Casa com saída
+Bicycle=false
+MapPosition=0,16,6
+#-------------------------------
+[041]
+# Casa 1
+Bicycle=false
+MapPosition=0,16,6
+#-------------------------------
+[042]
+# Casa 2
+Bicycle=false
+MapPosition=0,16,6
+#-------------------------------
+[043]
+# Rota 24
+BattleBack=
+Weather=Rain,50
+Bicycle=true
+MapPosition=0,16,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[044]
+# Rota 25
+Weather=Rain,50
+Bicycle=true
+MapPosition=0,18,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[045]
+# Casa de Bill
+Bicycle=false
+MapPosition=0,18,4
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[046]
+# Rota 5
+Bicycle=true
+MapPosition=0,16,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[047]
+# Pokémon Day Care
+Bicycle=false
+MapPosition=0,16,8
+#-------------------------------
+[048]
+# Ligação Saffron
+Bicycle=false
+MapPosition=0,16,7
+#-------------------------------
+[049]
+# Subterraneo - Entrada Rota 5
+MapPosition=0,16,8
+#-------------------------------
+[050]
+# Subterraneo
+MapPosition=0,16,7
+#-------------------------------
+[051]
+# Rota 6
+MapPosition=0,16,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[052]
+# Subterraneo - Entrada Rota 6
+MapPosition=0,16,10
+#-------------------------------
+[053]
+# Ligação Saffron
+Bicycle=false
+MapPosition=0,16,11
+#-------------------------------
+[054]
+# Rota 9
+Bicycle=true
+MapPosition=0,18,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[055]
+# Rota 10
+Bicycle=true
+MapPosition=0,20,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[056]
+# Cidade de Vermilion
+Bicycle=true
+MapPosition=0,16,12
+Outdoor=true
+HealingSpot=62,8,6
+ShowArea=true
+#-------------------------------
+[057]
+# Viagem S.S Anne
+MapPosition=0,16,12
+Outdoor=true
+#-------------------------------
+[058]
+# S.S Anne - 1F
+Bicycle=false
+MapPosition=0,16,12
+ShowArea=true
+#-------------------------------
+[059]
+# S.S Anne - B1F
+Bicycle=false
+MapPosition=0,16,12
+ShowArea=true
+#-------------------------------
+[061]
+# S.S Anne - 3F
+Bicycle=false
+MapPosition=0,16,12
+ShowArea=true
+#-------------------------------
+[063]
+# Mercado de Vermilion
+Bicycle=false
+MapPosition=0,16,12
+#-------------------------------
+[064]
+# Ginásio de Cerulean
+Bicycle=false
+MapPosition=0,16,12
+ShowArea=true
+#-------------------------------
+[065]
+# Fã Clube Pokémon
+Bicycle=false
+MapPosition=0,16,12
+#-------------------------------
+[066]
+# Casa 1
+Bicycle=false
+MapPosition=0,16,12
+#-------------------------------
+[067]
+# Casa 2
+Bicycle=false
+MapPosition=0,16,12
+#-------------------------------
+[068]
+# Casa 3
+Bicycle=false
+MapPosition=0,16,12
+#-------------------------------
+[069]
+# Rota 11
+Weather=Rain,20
+Bicycle=true
+MapPosition=0,18,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[073]
+# Túnel de Pedra
+Bicycle=true
+MapPosition=0,20,7
+DarkMap=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[074]
+# Túnel de Pedra
+Bicycle=true
+MapPosition=0,20,7
+DarkMap=true
+ShowArea=true
+#-------------------------------
+[076]
+# Cidade de Lavander
+Bicycle=true
+MapPosition=0,20,9
+Outdoor=true
+ShowArea=true
