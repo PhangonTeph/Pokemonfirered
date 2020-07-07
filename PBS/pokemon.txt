@@ -13297,7 +13297,7 @@ WildItemRare=LEFTOVERS
 BattlerPlayerY=0
 BattlerEnemyY=21
 BattlerAltitude=0
-Evolutions=SNORLAX,Happiness,
+Evolutions=SNORLAX,Level,20
 Incense=FULLINCENSE
 #-------------------------------
 [447]

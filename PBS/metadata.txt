@@ -642,3 +642,74 @@ MapPosition=0,12,9
 # Ginásio de Celadon
 Bicycle=false
 MapPosition=0,12,9
+#-------------------------------
+[116]
+# Rota 16
+Bicycle=true
+MapPosition=0,10,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[117]
+# Rota 16
+Bicycle=true
+MapPosition=0,9,9
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[118]
+# Portão de bicicleta
+Bicycle=true
+MapPosition=0,10,9
+#-------------------------------
+[120]
+# Rota 17
+Bicycle=true
+MapPosition=0,8,12
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[121]
+# Rota 18
+Bicycle=true
+MapPosition=0,11,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[122]
+# Rota 18
+Bicycle=true
+MapPosition=0,8,16
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[123]
+# Portão de bicicleta
+Bicycle=true
+#-------------------------------
+[125]
+# Rota 12
+Bicycle=true
+MapPosition=0,20,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[128]
+# Cidade de Fuschia
+Bicycle=true
+MapPosition=0,14,15
+Outdoor=true
+HealingSpot=134,7,5
+ShowArea=true
+#-------------------------------
+[136]
+# Zona do Safari
+Weather=Rain,10
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true

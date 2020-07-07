@@ -565,3 +565,4 @@
 565,SINNOHCARD,Sinnoh's Card,,8,0,"A card that gives access to Sinnoh's area in the Safari Zone.",2,0,6,
 566,UNOVACARD,Unova's Card,,8,0,"A card that gives access to Unova's area in the Safari Zone.",2,0,6,
 567,COFFEE,Coffee,,8,0,"A tasty-smelling coffee",2,0,6,
+568,CASSINOCARD,Casino Card,,8,0,"A card needed to use the casino elevator",2,0,6,
