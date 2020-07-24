@@ -2,18 +2,6 @@
 19,East,8,27,West,0
 # Cidade de Pewter (19) - Rota 2 (18)
 19,South,0,18,North,0
-# Cidade de Pallet (2) - Temporario (28)
-2,South,0,28,North,0
-# Cidade de Viridiana (7) - Rota 1 (6)
-7,South,3,6,North,0
-# Cidade de Pallet (2) - Rota 1 (6)
-2,North,0,6,South,0
-# Cidade de Viridiana (7) - Rota 22 (12)
-7,West,6,12,East,0
-# Rota 2 (13) - Rota 22 (12)
-13,West,42,12,East,0
-# Rota 2 (13) - Cidade de Viridiana (7)
-13,South,0,7,North,0
 # Rota 6 (51) - Cidade de Vermilion (56)
 51,South,0,56,North,0
 # Rota 11 (69) - Cidade de Vermilion (56)
@@ -28,6 +16,192 @@
 120,South,6,122,North,0
 # Rota 17 (120) - Rota 16 (117)
 120,North,0,117,South,0
+# Zona do Safari - Kanto 2 (138) - Zona do Safari - Kanto 7 (143)
+138,East,0,143,West,4
+# Zona do Safari - Kanto 3 (139) - Zona do Safari - Kanto 7 (143)
+139,East,0,143,West,104
+# Zona do Safari - Kanto 5 (140) - Zona do Safari - Kanto 7 (143)
+140,North,0,143,South,0
+# Zona do Safari - Kanto 4 (141) - Zona do Safari - Kanto 7 (143)
+141,North,83,143,South,0
+# Zona do Safari - Kanto 1 (136) - Zona do Safari - Kanto 7 (143)
+136,East,0,143,West,54
+# Zona do Safari - Kanto 5 (140) - Zona do Safari - Kanto 2 (138)
+140,West,0,138,East,76
+# Zona do Safari - Kanto 4 (141) - Zona do Safari - Kanto 2 (138)
+141,East,0,138,West,76
+# Zona do Safari - Kanto 1 (136) - Zona do Safari - Kanto 2 (138)
+136,North,0,138,South,0
+# Zona do Safari - Kanto 6 (142) - Zona do Safari - Kanto 2 (138)
+142,East,4,138,West,0
+# Zona do Safari - Kanto 5 (140) - Zona do Safari - Kanto 3 (139)
+140,West,24,139,East,0
+# Zona do Safari - Kanto 4 (141) - Zona do Safari - Kanto 3 (139)
+141,East,24,139,West,0
+# Zona do Safari - Kanto 1 (136) - Zona do Safari - Kanto 3 (139)
+136,South,0,139,North,0
+# Zona do Safari - Kanto 6 (142) - Zona do Safari - Kanto 3 (139)
+142,East,104,139,West,0
+# Zona do Safari - Kanto 1 (136) - Zona do Safari - Kanto 5 (140)
+136,East,26,140,West,0
+# Zona do Safari - Kanto 6 (142) - Zona do Safari - Kanto 5 (140)
+142,South,83,140,North,0
+# Zona do Safari - Kanto 1 (136) - Zona do Safari - Kanto 4 (141)
+136,West,26,141,East,0
+# Zona do Safari - Kanto 6 (142) - Zona do Safari - Kanto 4 (141)
+142,South,0,141,North,0
+# Zona do Safari - Kanto 6 (142) - Zona do Safari - Kanto 1 (136)
+142,East,54,136,West,0
+# Zona do Safari - Johto 6 (149) - Zona do Safari - Johto 5 (148)
+149,South,83,148,North,0
+# Zona do Safari - Johto 1 (144) - Zona do Safari - Johto 5 (148)
+144,East,26,148,West,0
+# Zona do Safari - Johto 7 (150) - Zona do Safari - Johto 5 (148)
+150,South,0,148,North,0
+# Zona do Safari - Johto 2 (145) - Zona do Safari - Johto 5 (148)
+145,East,76,148,West,0
+# Zona do Safari - Johto 3 (146) - Zona do Safari - Johto 5 (148)
+146,East,0,148,West,24
+# Zona do Safari - Johto 1 (144) - Zona do Safari - Johto 6 (149)
+144,West,0,149,East,54
+# Zona do Safari - Johto 2 (145) - Zona do Safari - Johto 6 (149)
+145,West,0,149,East,4
+# Zona do Safari - Johto 3 (146) - Zona do Safari - Johto 6 (149)
+146,West,0,149,East,104
+# Zona do Safari - Johto 4 (147) - Zona do Safari - Johto 6 (149)
+147,North,0,149,South,0
+# Zona do Safari - Johto 7 (150) - Zona do Safari - Johto 1 (144)
+150,West,54,144,East,0
+# Zona do Safari - Johto 2 (145) - Zona do Safari - Johto 1 (144)
+145,South,0,144,North,0
+# Zona do Safari - Johto 3 (146) - Zona do Safari - Johto 1 (144)
+146,North,0,144,South,0
+# Zona do Safari - Johto 4 (147) - Zona do Safari - Johto 1 (144)
+147,East,0,144,West,26
+# Zona do Safari - Johto 2 (145) - Zona do Safari - Johto 7 (150)
+145,East,0,150,West,4
+# Zona do Safari - Johto 3 (146) - Zona do Safari - Johto 7 (150)
+146,East,0,150,West,104
+# Zona do Safari - Johto 4 (147) - Zona do Safari - Johto 7 (150)
+147,North,83,150,South,0
+# Zona do Safari - Johto 4 (147) - Zona do Safari - Johto 2 (145)
+147,East,0,145,West,76
+# Zona do Safari - Johto 4 (147) - Zona do Safari - Johto 3 (146)
+147,East,24,146,West,0
+# Zona do Safari - Hoenn 6 (156) - Zona do Safari - Hoenn 4 (154)
+156,South,0,154,North,0
+# Zona do Safari - Hoenn 1 (151) - Zona do Safari - Hoenn 4 (154)
+151,West,26,154,East,0
+# Zona do Safari - Hoenn 7 (157) - Zona do Safari - Hoenn 4 (154)
+157,South,0,154,North,83
+# Zona do Safari - Hoenn 2 (152) - Zona do Safari - Hoenn 4 (154)
+152,West,76,154,East,0
+# Zona do Safari - Hoenn 3 (153) - Zona do Safari - Hoenn 4 (154)
+153,West,0,154,East,24
+# Zona do Safari - Hoenn 6 (156) - Zona do Safari - Hoenn 5 (155)
+156,South,83,155,North,0
+# Zona do Safari - Hoenn 1 (151) - Zona do Safari - Hoenn 5 (155)
+151,East,26,155,West,0
+# Zona do Safari - Hoenn 7 (157) - Zona do Safari - Hoenn 5 (155)
+157,South,0,155,North,0
+# Zona do Safari - Hoenn 2 (152) - Zona do Safari - Hoenn 5 (155)
+152,East,76,155,West,0
+# Zona do Safari - Hoenn 3 (153) - Zona do Safari - Hoenn 5 (155)
+153,East,0,155,West,24
+# Zona do Safari - Hoenn 1 (151) - Zona do Safari - Hoenn 6 (156)
+151,West,0,156,East,54
+# Zona do Safari - Hoenn 2 (152) - Zona do Safari - Hoenn 6 (156)
+152,West,0,156,East,4
+# Zona do Safari - Hoenn 3 (153) - Zona do Safari - Hoenn 6 (156)
+153,West,0,156,East,104
+# Zona do Safari - Hoenn 7 (157) - Zona do Safari - Hoenn 1 (151)
+157,West,54,151,East,0
+# Zona do Safari - Hoenn 2 (152) - Zona do Safari - Hoenn 1 (151)
+152,South,0,151,North,0
+# Zona do Safari - Hoenn 3 (153) - Zona do Safari - Hoenn 1 (151)
+153,North,0,151,South,0
+# Zona do Safari - Hoenn 2 (152) - Zona do Safari - Hoenn 7 (157)
+152,East,0,157,West,4
+# Zona do Safari - Hoenn 3 (153) - Zona do Safari - Hoenn 7 (157)
+153,East,0,157,West,104
+# Zona do Safari - Sinnoh 4 (161) - Zona do Safari - Sinnoh 2 (159)
+161,East,0,159,West,76
+# Zona do Safari - Sinnoh 5 (162) - Zona do Safari - Sinnoh 2 (159)
+162,West,0,159,East,76
+# Zona do Safari - Sinnoh 6 (163) - Zona do Safari - Sinnoh 2 (159)
+163,East,4,159,West,0
+# Zona do Safari - Sinnoh 1 (158) - Zona do Safari - Sinnoh 2 (159)
+158,North,0,159,South,0
+# Zona do Safari - Sinnoh 7 (164) - Zona do Safari - Sinnoh 2 (159)
+164,West,4,159,East,0
+# Zona do Safari - Sinnoh 4 (161) - Zona do Safari - Sinnoh 3 (160)
+161,East,24,160,West,0
+# Zona do Safari - Sinnoh 5 (162) - Zona do Safari - Sinnoh 3 (160)
+162,West,24,160,East,0
+# Zona do Safari - Sinnoh 6 (163) - Zona do Safari - Sinnoh 3 (160)
+163,East,104,160,West,0
+# Zona do Safari - Sinnoh 1 (158) - Zona do Safari - Sinnoh 3 (160)
+158,South,0,160,North,0
+# Zona do Safari - Sinnoh 7 (164) - Zona do Safari - Sinnoh 3 (160)
+164,West,104,160,East,0
+# Zona do Safari - Sinnoh 6 (163) - Zona do Safari - Sinnoh 4 (161)
+163,South,0,161,North,0
+# Zona do Safari - Sinnoh 1 (158) - Zona do Safari - Sinnoh 4 (161)
+158,West,26,161,East,0
+# Zona do Safari - Sinnoh 7 (164) - Zona do Safari - Sinnoh 4 (161)
+164,South,0,161,North,83
+# Zona do Safari - Sinnoh 6 (163) - Zona do Safari - Sinnoh 5 (162)
+163,South,83,162,North,0
+# Zona do Safari - Sinnoh 1 (158) - Zona do Safari - Sinnoh 5 (162)
+158,East,26,162,West,0
+# Zona do Safari - Sinnoh 7 (164) - Zona do Safari - Sinnoh 5 (162)
+164,South,0,162,North,0
+# Zona do Safari - Sinnoh 1 (158) - Zona do Safari - Sinnoh 6 (163)
+158,West,0,163,East,54
+# Zona do Safari - Sinnoh 7 (164) - Zona do Safari - Sinnoh 1 (158)
+164,West,54,158,East,0
+# Zona do Safari - Unova 1 (165) - Zona do Safari - Unova 6 (170)
+165,West,0,170,East,54
+# Zona do Safari - Unova 2 (166) - Zona do Safari - Unova 6 (170)
+166,West,0,170,East,4
+# Zona do Safari - Unova 3 (167) - Zona do Safari - Unova 6 (170)
+167,West,0,170,East,104
+# Zona do Safari - Unova 4 (168) - Zona do Safari - Unova 6 (170)
+168,North,0,170,South,0
+# Zona do Safari - Unova 5 (169) - Zona do Safari - Unova 6 (170)
+169,North,0,170,South,83
+# Zona do Safari - Unova 7 (171) - Zona do Safari - Unova 1 (165)
+171,West,54,165,East,0
+# Zona do Safari - Unova 2 (166) - Zona do Safari - Unova 1 (165)
+166,South,0,165,North,0
+# Zona do Safari - Unova 3 (167) - Zona do Safari - Unova 1 (165)
+167,North,0,165,South,0
+# Zona do Safari - Unova 4 (168) - Zona do Safari - Unova 1 (165)
+168,East,0,165,West,26
+# Zona do Safari - Unova 5 (169) - Zona do Safari - Unova 1 (165)
+169,West,0,165,East,26
+# Zona do Safari - Unova 2 (166) - Zona do Safari - Unova 7 (171)
+166,East,0,171,West,4
+# Zona do Safari - Unova 3 (167) - Zona do Safari - Unova 7 (171)
+167,East,0,171,West,104
+# Zona do Safari - Unova 4 (168) - Zona do Safari - Unova 7 (171)
+168,North,83,171,South,0
+# Zona do Safari - Unova 5 (169) - Zona do Safari - Unova 7 (171)
+169,North,0,171,South,0
+# Zona do Safari - Unova 4 (168) - Zona do Safari - Unova 2 (166)
+168,East,0,166,West,76
+# Zona do Safari - Unova 5 (169) - Zona do Safari - Unova 2 (166)
+169,West,0,166,East,76
+# Zona do Safari - Unova 4 (168) - Zona do Safari - Unova 3 (167)
+168,East,24,167,West,0
+# Zona do Safari - Unova 5 (169) - Zona do Safari - Unova 3 (167)
+169,West,24,167,East,0
+# Cidade de Fuschia (128) - Rota 20 (203)
+128,West,46,203,East,0
+# Rota 15 (201) - Rota 20 (203)
+201,South,0,203,North,144
+# Rota 19 (202) - Rota 20 (203)
+202,West,0,203,East,0
 # Cidade de Cerulean (35) - Rota 25 (44)
 35,North,60,44,South,0
 # Rota 24 (43) - Rota 25 (44)
@@ -36,27 +210,67 @@
 35,East,38,55,West,0
 # Rota 8 (90) - Rota 10 (55)
 90,North,79,55,South,0
-# Rota 9 (54) - Rota 10 (55)
-54,South,0,55,North,0
 # Cidade de Lavander (76) - Rota 10 (55)
 76,North,0,55,South,21
+# Rota 9 (54) - Rota 10 (55)
+54,South,0,55,North,0
+# Cidade de Fuschia (128) - Rota 18 (121)
+128,West,0,121,East,0
+# Rota 19 (202) - Rota 18 (121)
+202,West,0,121,East,46
 # Rota 5 (46) - Rota 4 (34)
 46,West,0,34,East,50
 # Cidade de Cerulean (35) - Rota 4 (34)
 35,West,5,34,East,0
 # Rota 24 (43) - Rota 4 (34)
 43,West,50,34,East,0
+# Rota 14 (200) - Rota 13 (199)
+200,North,0,199,South,0
+# Rota 15 (201) - Rota 13 (199)
+201,East,0,199,West,43
+# Rota 12 (125) - Rota 13 (199)
+125,South,0,199,North,39
+# Rota 15 (201) - Cidade de Fuschia (128)
+201,West,0,128,East,0
+# Rota 19 (202) - Cidade de Fuschia (128)
+202,North,0,128,South,0
 # Cidade de Cerulean (35) - Rota 5 (46)
 35,South,0,46,North,0
-# Rota 24 (43) - Cidade de Cerulean (35)
-43,South,0,35,North,0
 # Rota 9 (54) - Cidade de Cerulean (35)
 54,West,0,35,East,3
+# Rota 24 (43) - Cidade de Cerulean (35)
+43,South,0,35,North,0
 # Rota 12 (125) - Rota 8 (90)
 125,West,0,90,East,40
 # Cidade de Lavander (76) - Rota 8 (90)
 76,West,0,90,East,0
+# Rota 15 (201) - Rota 14 (200)
+201,East,0,200,West,17
+# Rota 19 (202) - Rota 15 (201)
+202,North,52,201,South,0
 # Cidade de Lavander (76) - Rota 12 (125)
 76,South,0,125,North,0
-# Cidade de Fuschia (128) - Rota 18 (121)
-128,West,0,121,East,0
+# Cidade de Viridiana (7) - Rota 1 (6)
+7,South,3,6,North,0
+# Cidade de Pallet (2) - Rota 1 (6)
+2,North,0,6,South,0
+# Ilha de Cinnabar (204) - Rota 21 (28)
+204,North,0,28,South,0
+# Rota 20 (205) - Rota 21 (28)
+205,West,0,28,East,44
+# Cidade de Pallet (2) - Rota 21 (28)
+2,South,0,28,North,2
+# Rota 20 (205) - Ilha de Cinnabar (204)
+205,West,16,204,East,0
+# Cidade de Viridiana (7) - Rota 22 (12)
+7,West,6,12,East,0
+# Rota 2 (13) - Rota 22 (12)
+13,West,42,12,East,0
+# Rota 2 (13) - Cidade de Viridiana (7)
+13,South,0,7,North,0
+# Rota 501 (213) - Cidade Esmeralda (214)
+213,North,0,214,South,0
+# Rota 501 (213) - Cidade Ruby (207)
+213,South,8,207,North,0
+# Planalto Indigo (229) - Rota 23 (225)
+229,South,0,225,North,0

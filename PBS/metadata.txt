@@ -5,8 +5,8 @@ PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,gir
 TrainerVictoryME=Battle victory trainer.ogg
 WildVictoryME=Battle victory wild.ogg
 TrainerBattleBGM=Battle trainer.mid
-SurfBGM=Surfing.mid
-BicycleBGM=Bicycle.mid
+SurfBGM=Surf Theme.ogg
+BicycleBGM=Bicycle.ogg
 Home=3,7,5,8
 WildBattleBGM=Battle wild.mid
 #-------------------------------
@@ -178,9 +178,9 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [028]
-# Temporario
-BattleBack=Forest
-MapPosition=0,16,8
+# Rota 21
+BattleBack=Water
+MapPosition=0,5,16
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -551,6 +551,7 @@ MapPosition=0,18,9
 #-------------------------------
 [093]
 # Subterraneo
+Bicycle=true
 MapPosition=0,18,9
 ShowArea=true
 #-------------------------------
@@ -643,6 +644,30 @@ MapPosition=0,12,9
 Bicycle=false
 MapPosition=0,12,9
 #-------------------------------
+[111]
+# Esconderijo rocket 1
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[112]
+# Esconderijo rocket 2
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[113]
+# Esconderijo rocket 3
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
+[114]
+# Esconderijo Rocket Elevador
+MapPosition=0,12,9
+#-------------------------------
+[115]
+# Esconderijo rocket 4
+Bicycle=false
+MapPosition=0,12,9
+#-------------------------------
 [116]
 # Rota 16
 Bicycle=true
@@ -697,6 +722,16 @@ MapPosition=0,20,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[126]
+# Ligação rota 12
+Bicycle=false
+MapPosition=0,20,10
+#-------------------------------
+[127]
+# Rota 12 to rota 12
+Bicycle=false
+MapPosition=0,20,10
+#-------------------------------
 [128]
 # Cidade de Fuschia
 Bicycle=true
@@ -705,11 +740,788 @@ Outdoor=true
 HealingSpot=134,7,5
 ShowArea=true
 #-------------------------------
+[129]
+# Safari Zone portão K
+Bicycle=false
+MapPosition=0,14,15
+#-------------------------------
+[130]
+# Safari Zone portão J
+Bicycle=false
+MapPosition=0,14,15
+#-------------------------------
+[131]
+# Safari Zone portão H
+Bicycle=false
+MapPosition=0,14,15
+#-------------------------------
+[132]
+# Safari Zone portão S
+Bicycle=false
+MapPosition=0,14,15
+#-------------------------------
+[133]
+# Safari Zone portão U
+Bicycle=false
+MapPosition=0,14,15
+#-------------------------------
+[134]
+# Centro Pokémon de Fuschia
+Bicycle=false
+MapPosition=0,14,15
+#-------------------------------
+[135]
+# Mercado de Fuschia
+Bicycle=false
+MapPosition=0,14,15
+#-------------------------------
 [136]
-# Zona do Safari
-Weather=Rain,10
+# Zona do Safari - Kanto 1
+Weather=Rain,5
 Bicycle=true
 MapPosition=0,14,15
 SafariMap=true
 Outdoor=true
+ShowArea=true
+#-------------------------------
+[137]
+# Casa diretor
+MapPosition=0,14,15
+Outdoor=false
+#-------------------------------
+[138]
+# Zona do Safari - Kanto 2
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[139]
+# Zona do Safari - Kanto 3
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[140]
+# Zona do Safari - Kanto 5
+Weather=Sandstorm,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[141]
+# Zona do Safari - Kanto 4
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[142]
+# Zona do Safari - Kanto 6
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[143]
+# Zona do Safari - Kanto 7
+BattleBack=Water
+Weather=HeavyRain,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[144]
+# Zona do Safari - Johto 1
+Weather=Rain,5
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[145]
+# Zona do Safari - Johto 2
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[146]
+# Zona do Safari - Johto 3
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[147]
+# Zona do Safari - Johto 4
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[148]
+# Zona do Safari - Johto 5
+Weather=Sandstorm,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[149]
+# Zona do Safari - Johto 6
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[150]
+# Zona do Safari - Johto 7
+BattleBack=Water
+Weather=HeavyRain,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[151]
+# Zona do Safari - Hoenn 1
+Weather=Rain,5
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[152]
+# Zona do Safari - Hoenn 2
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[153]
+# Zona do Safari - Hoenn 3
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[154]
+# Zona do Safari - Hoenn 4
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[155]
+# Zona do Safari - Hoenn 5
+Weather=Sandstorm,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[156]
+# Zona do Safari - Hoenn 6
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[157]
+# Zona do Safari - Hoenn 7
+BattleBack=Water
+Weather=HeavyRain,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[158]
+# Zona do Safari - Sinnoh 1
+Weather=Rain,5
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[159]
+# Zona do Safari - Sinnoh 2
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[160]
+# Zona do Safari - Sinnoh 3
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[161]
+# Zona do Safari - Sinnoh 4
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[162]
+# Zona do Safari - Sinnoh 5
+Weather=Sandstorm,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[163]
+# Zona do Safari - Sinnoh 6
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[164]
+# Zona do Safari - Sinnoh 7
+BattleBack=Water
+Weather=HeavyRain,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[165]
+# Zona do Safari - Unova 1
+Weather=Rain,5
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[166]
+# Zona do Safari - Unova 2
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[167]
+# Zona do Safari - Unova 3
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[168]
+# Zona do Safari - Unova 4
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[169]
+# Zona do Safari - Unova 5
+Weather=Sandstorm,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[170]
+# Zona do Safari - Unova 6
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[171]
+# Zona do Safari - Unova 7
+BattleBack=Water
+Weather=HeavyRain,100
+Bicycle=true
+MapPosition=0,14,15
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[172]
+# Casa 1
+Bicycle=false
+MapPosition=0,14,15
+Outdoor=false
+#-------------------------------
+[173]
+# Ginásio de Fuschia
+Bicycle=false
+MapPosition=0,14,15
+Outdoor=false
+#-------------------------------
+[174]
+# Casa 2
+Bicycle=false
+MapPosition=0,14,15
+Outdoor=false
+#-------------------------------
+[175]
+# Casa 3
+Bicycle=false
+MapPosition=0,14,15
+Outdoor=false
+#-------------------------------
+[176]
+# Casa 4
+Bicycle=false
+MapPosition=0,14,15
+Outdoor=false
+#-------------------------------
+[177]
+# Cidade de Saffron
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+HealingSpot=180,7,5
+ShowArea=true
+#-------------------------------
+[178]
+# Ginásio de Saffron
+Bicycle=false
+MapPosition=0,16,9
+#-------------------------------
+[179]
+# Dojo
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+#-------------------------------
+[180]
+# Centro Pokémon de Saffron
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+#-------------------------------
+[181]
+# Mercado de Saffron
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+#-------------------------------
+[182]
+# Silph Co. - 1F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[183]
+# Silph Co. - 2F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[184]
+# Silph Co. - 3F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[185]
+# Silph Co. - 4F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[186]
+# Silph Co. - 5F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[187]
+# Silph Co. - 6F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[188]
+# Silph Co. - 7F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[189]
+# Silph Co. - 8F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[190]
+# Silph Co. - 9F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[191]
+# Silph Co. - 10F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[192]
+# Silph Co. - 11F
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[193]
+# Silph Co. - Elevador
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+#-------------------------------
+[194]
+# Casa 1
+Bicycle=false
+MapPosition=0,16,9
+#-------------------------------
+[195]
+# Casa 2
+Bicycle=false
+MapPosition=0,16,9
+#-------------------------------
+[196]
+# Casa 2
+Bicycle=false
+MapPosition=0,16,9
+#-------------------------------
+[197]
+# Casa 3
+Bicycle=false
+MapPosition=0,16,9
+Outdoor=false
+#-------------------------------
+[198]
+# Casa
+Bicycle=false
+MapPosition=0,20,10
+#-------------------------------
+[199]
+# Rota 13
+Bicycle=true
+MapPosition=0,19,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[200]
+# Rota 14
+Bicycle=true
+MapPosition=0,17,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[201]
+# Rota 15
+Bicycle=true
+MapPosition=0,15,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[202]
+# Rota 19
+BattleBack=Water
+Bicycle=true
+MapPosition=0,14,17
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[203]
+# Rota 20
+BattleBack=Water
+Bicycle=true
+MapPosition=0,11,18
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[204]
+# Ilha de Cinnabar
+Bicycle=true
+MapPosition=0,5,18
+Outdoor=true
+HealingSpot=210,7,6
+ShowArea=true
+#-------------------------------
+[205]
+# Rota 20
+BattleBack=Water
+Bicycle=true
+MapPosition=0,8,18
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[207]
+# Cidade Ruby
+Bicycle=true
+MapPosition=1,13,12
+Outdoor=true
+HealingSpot=217,7,5
+ShowArea=true
+#-------------------------------
+[208]
+# Casa de David
+Bicycle=false
+MapPosition=1,13,12
+#-------------------------------
+[209]
+# Casa de David
+Bicycle=false
+MapPosition=1,13,12
+#-------------------------------
+[210]
+# Centro Pokémon de Cinnabar
+Bicycle=false
+MapPosition=0,5,18
+#-------------------------------
+[211]
+# Mercado de Cinnabar
+Bicycle=false
+MapPosition=0,5,18
+#-------------------------------
+[212]
+# Ginásio de Cinnabar
+Bicycle=false
+MapPosition=0,5,18
+#-------------------------------
+[213]
+# Rota 501
+Weather=Rain,50
+Bicycle=true
+MapPosition=1,13,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[214]
+# Cidade Esmeralda
+Bicycle=true
+MapPosition=1,13,10
+Outdoor=true
+HealingSpot=218,7,6
+ShowArea=true
+#-------------------------------
+[215]
+# Laboratório de Pesquisa
+Bicycle=false
+MapPosition=0,5,18
+#-------------------------------
+[216]
+# Casa do Professor
+Bicycle=false
+MapPosition=1,13,12
+#-------------------------------
+[217]
+# Centro Pokémon de Ruby
+Bicycle=false
+MapPosition=1,13,12
+#-------------------------------
+[218]
+# Centro Pokémon de Esmeralda
+Bicycle=false
+MapPosition=1,13,10
+#-------------------------------
+[219]
+# Ruinas antigas
+Bicycle=true
+MapPosition=1,13,10
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[220]
+# Ruinas antigas
+Bicycle=true
+MapPosition=1,13,10
+ShowArea=true
+#-------------------------------
+[221]
+# Mansão Pokémon
+Bicycle=false
+MapPosition=0,5,18
+ShowArea=true
+#-------------------------------
+[222]
+# Mansão Pokémon
+Bicycle=false
+MapPosition=0,5,18
+ShowArea=true
+#-------------------------------
+[223]
+# Ginásio de Viridiana
+Bicycle=false
+MapPosition=0,5,11
+#-------------------------------
+[224]
+# Rota 22 to rota 23
+Bicycle=false
+MapPosition=0,3,11
+Outdoor=false
+#-------------------------------
+[225]
+# Rota 23
+Bicycle=true
+MapPosition=0,3,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[226]
+# Estrada da Vitória
+Bicycle=true
+MapPosition=0,3,7
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[227]
+# Estrada da Vitória
+Bicycle=true
+MapPosition=0,3,7
+ShowArea=true
+#-------------------------------
+[228]
+# Estrada da Vitória
+Bicycle=true
+MapPosition=0,3,7
+ShowArea=true
+#-------------------------------
+[229]
+# Planalto Indigo
+Bicycle=true
+MapPosition=0,3,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[230]
+# Liga Pokémon
+Bicycle=false
+MapPosition=0,3,6
+ShowArea=true
+#-------------------------------
+[231]
+# Liga Pokémon
+Bicycle=false
+MapPosition=0,3,6
+#-------------------------------
+[232]
+# Liga Pokémon
+Bicycle=false
+MapPosition=0,3,6
+#-------------------------------
+[233]
+# Liga Pokémon
+Bicycle=false
+MapPosition=0,3,6
+#-------------------------------
+[234]
+# Liga Pokémon
+Bicycle=false
+MapPosition=0,3,6
+ShowArea=false
+#-------------------------------
+[235]
+# Liga Pokémon
+Bicycle=false
+MapPosition=0,3,6
+#-------------------------------
+[236]
+# Liga Pokémon
+Bicycle=false
+MapPosition=0,3,6
+#-------------------------------
+[237]
+# Hall da Fama
+Bicycle=false
+MapPosition=0,3,6
+#-------------------------------
+[238]
+# Caverna Seafoam - 1F
+MapPosition=0,9,18
+ShowArea=true
+#-------------------------------
+[239]
+# Caverna Seafoam - B1F
+MapPosition=0,9,18
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[240]
+# Caverna Seafoam - B2F
+MapPosition=0,9,18
+ShowArea=true
+#-------------------------------
+[241]
+# Caverna Seafoam - B3F
+MapPosition=0,9,18
+ShowArea=true
+#-------------------------------
+[242]
+# Caverna Seafoam - B4F
+MapPosition=0,9,18
+ShowArea=true
+#-------------------------------
+[243]
+# Caverna de Cerulean - 1F
+Bicycle=true
+MapPosition=0,16,6
+Outdoor=false
 ShowArea=true
